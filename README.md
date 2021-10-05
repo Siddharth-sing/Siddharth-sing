@@ -17,9 +17,10 @@
   <a href="https://twitter.com/Siddhar76650840">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
+  <br />
+    <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=Siddharth-sing.Siddharth-sing" alt="Vistor Badge"></a>
 </div>
 
-<br />
 <br />
 
 ## &#x1f4c8; Siddharth's GitHub Stats
@@ -33,7 +34,8 @@
 <br />
 <br />
 
-
+## 🤗 Contribution Graph  
+   
 ![Siddharth's github activity graph](https://activity-graph.herokuapp.com/graph?username=Siddharth-sing&theme=react-dark&hide_border=true&area=true)
 
 
@@ -41,6 +43,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Siddharth-sing&theme=dark&hide_border=true")](https://git.io/streak-stats)
 
-![Visitors Batch](https://visitor-badge.laobi.icu/badge?page_id=Siddharth-sing.Siddharth-sing)
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
