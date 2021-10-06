@@ -20,9 +20,14 @@
   <br />
     <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=Siddharth-sing.Siddharth-sing" alt="Vistor Badge"></a>
 </div>
-
 <br />
 
+<img src="https://user-images.githubusercontent.com/72120258/136242438-e91b7807-4a55-4ceb-accc-af1b9de81da1.gif">  
+<img src="https://user-images.githubusercontent.com/72120258/136242595-67a32368-bf47-4444-8a0e-1de4cfaaf9e0.gif" height="220px" width="450px">    
+
+<br />
+<br />  
+  
 ## &#x1f4c8; Siddharth's GitHub Stats
 <a  href="https://github.com/Siddharth-sing/github-readme-stats">
 <img align="center" src= "https://github-readme-stats.vercel.app/api?username=Siddharth-sing&&show_icons=true&title_color=merko&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
