@@ -75,6 +75,12 @@
   <br/>
   <br/>
 </p>
+  
+
+## Thanks for being here, if you like my work show some ❤️ by staring some of the repositories 🤗. 
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
+</p> 
 
 
   
