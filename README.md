@@ -39,10 +39,7 @@
 ![Siddharth's github activity graph](https://activity-graph.herokuapp.com/graph?username=Siddharth-sing&theme=react-dark&hide_border=true&area=true)
 
 ---  
-
-<br/> 
-<br/>
-  
+ 
 ## ⚙️ Tools and Tech I have worked on 
   
 <p align="center">
@@ -70,7 +67,6 @@
   <img src=" https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src=" https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
  
-  <br/>
   <br/>
 </p>
 
