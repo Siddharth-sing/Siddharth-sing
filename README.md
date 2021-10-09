@@ -46,7 +46,7 @@
   
 ## 🔥 Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sagnikghoshcr7&theme=dark&hide_border=true")](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Siddharth-sing&theme=dark&hide_border=true")](https://git.io/streak-stats)
 
  
 ## ⚙️ Tools and Tech I have worked on 
