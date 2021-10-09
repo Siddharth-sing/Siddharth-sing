@@ -40,7 +40,7 @@
 
 ## 🤗 Contribution Graph  
    
-![Siddharth's github activity graph](https://activity-graph.herokuapp.com/graph?username=Siddharth-sing&theme=react-dark&hide_border=true&area=true)
+![Siddharth's github activity graph](https://activity-graph.herokuapp.com/graph?username=sagnikghoshcr7&theme=react-dark&hide_border=true&area=true)
 
 ---  
   
