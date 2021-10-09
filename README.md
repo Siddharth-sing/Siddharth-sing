@@ -40,13 +40,13 @@
 
 ## 🤗 Contribution Graph  
    
-![Siddharth's github activity graph](https://activity-graph.herokuapp.com/graph?username=sagnikghoshcr7&theme=react-dark&hide_border=true&area=true)
+![Siddharth's github activity graph](https://activity-graph.herokuapp.com/graph?username=Siddharth-sing&theme=react-dark&hide_border=true&area=true)
 
 ---  
   
 ## 🔥 Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Siddharth-sing&theme=dark&hide_border=true")](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sagnikghoshcr7&theme=dark&hide_border=true")](https://git.io/streak-stats)
 
  
 ## ⚙️ Tools and Tech I have worked on 
