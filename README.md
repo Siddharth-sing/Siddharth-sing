@@ -30,13 +30,13 @@
 <br />
 <br />  
   
-<!--## &#x1f4c8; Siddharth's GitHub Stats
+## &#x1f4c8; Siddharth's GitHub Stats
 <a  href="https://github.com/Siddharth-sing/github-readme-stats">
 <img align="center" src= "https://github-readme-stats.vercel.app/api?username=Siddharth-sing&&show_icons=true&title_color=merko&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </a>
 <a href="https://github.com/Siddharth-sing/Siddharth-sing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-sing&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</a>-->
+</a>
 
 <br />
 <br />
