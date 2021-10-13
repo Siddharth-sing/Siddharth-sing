@@ -17,6 +17,10 @@
   <a href="https://twitter.com/Siddhar76650840">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
+  <a href="https://dev.to/siddharthsing">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+  </a>
+    
   <br />
     <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=Siddharth-sing.Siddharth-sing" alt="Vistor Badge"></a>
 </div>
