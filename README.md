@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/72120258/137971966-9cc26362-c7f2-4086-8a96-47ae8e68ccf0.gif" height="440px" width="300px">
 <h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">, I'm ░▒▓█ 🆂🅸🅳🅳🅷🅰🆁🆃🅷 █▓▒░ 
 <div>
   <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?color=%2317EAFF&lines=I+am+an+Android+Developer.;I+am+a+Flutter+Developer.;I+am+a+Machine+Learning+enthusiast."/>
@@ -27,7 +28,7 @@
 <br />
  
 <img src="https://user-images.githubusercontent.com/72120258/137971665-d3755f2f-f678-47cd-82fc-f2f7f40441cd.gif" height="540px" width="530px">
-<img src="https://user-images.githubusercontent.com/72120258/137971966-9cc26362-c7f2-4086-8a96-47ae8e68ccf0.gif" height="440px" width="300px">  
+  
 
 <!--img src="https://user-images.githubusercontent.com/72120258/136708199-cf033af5-9b89-4285-9b1d-474f98324bd7.gif" height="410px" width="840px"> -->
 
