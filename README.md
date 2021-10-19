@@ -53,7 +53,7 @@
 ## 🔥 Streak Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Siddharth-sing&theme=dark&hide_border=true")](https://git.io/streak-stats)
-<img src="https://user-images.githubusercontent.com/72120258/137962380-980d4e30-0a6c-4e17-b1c4-6fd0f41576c5.gif" width="300" height="300" />
+<img src="https://user-images.githubusercontent.com/72120258/137962380-980d4e30-0a6c-4e17-b1c4-6fd0f41576c5.gif" width="250" height="250" />
   
 
  
