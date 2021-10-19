@@ -94,6 +94,9 @@
 ## 👋 Thanks for being here, if you like my work show some ❤️ by staring some of the repositories 🤗. 
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
+  
+<img src="https://user-images.githubusercontent.com/72120258/137959884-2bef71c5-03e5-4d25-883e-e8575cbafa1c.gif" height="340px" width="830px">
+
 </p> 
 
 
