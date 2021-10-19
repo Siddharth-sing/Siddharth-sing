@@ -26,8 +26,8 @@
 </div>
 <br />
  
-<img src="https://user-images.githubusercontent.com/72120258/137971966-9cc26362-c7f2-4086-8a96-47ae8e68ccf0.gif" height="340px" width="530px">
-<img src="https://user-images.githubusercontent.com/72120258/137971665-d3755f2f-f678-47cd-82fc-f2f7f40441cd.gif" height="340px" width="300px">  
+<img src="https://user-images.githubusercontent.com/72120258/137971665-d3755f2f-f678-47cd-82fc-f2f7f40441cd.gif" height="340px" width="530px">
+<img src="https://user-images.githubusercontent.com/72120258/137971966-9cc26362-c7f2-4086-8a96-47ae8e68ccf0.gif" height="340px" width="300px">  
 
 <!--img src="https://user-images.githubusercontent.com/72120258/136708199-cf033af5-9b89-4285-9b1d-474f98324bd7.gif" height="410px" width="840px"> -->
 
