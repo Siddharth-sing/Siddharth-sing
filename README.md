@@ -48,12 +48,13 @@
 ## 🤗 Contribution Graph  
    
 ![Siddharth's github activity graph](https://activity-graph.herokuapp.com/graph?username=Siddharth-sing&theme=react-dark&hide_border=true&area=true)
-
 ---  
   
 ## 🔥 Streak Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Siddharth-sing&theme=dark&hide_border=true")](https://git.io/streak-stats)
+<img src="https://user-images.githubusercontent.com/72120258/137962380-980d4e30-0a6c-4e17-b1c4-6fd0f41576c5.gif" width="300" height="300" />
+  
 
  
 ## ⚙️ Tools and Tech I have worked on 
@@ -96,7 +97,7 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
   
 <img src="https://user-images.githubusercontent.com/72120258/137959884-2bef71c5-03e5-4d25-883e-e8575cbafa1c.gif" height="240px" width="830px">
-
+ 
 </p> 
 
 
