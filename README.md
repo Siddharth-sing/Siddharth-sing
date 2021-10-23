@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
   </a>    
 </div>
- 
+
   <img src="https://user-images.githubusercontent.com/72120258/138561213-2f4f191a-01fc-4aea-a8d7-5480d6c0c8c7.gif" height="540px" width="830px">
    
   <a target="_blank"><img align="middle" src="https://visitor-badge.glitch.me/badge?page_id=Siddharth-sing.Siddharth-sing" alt="Vistor Badge"></a>
@@ -50,8 +50,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Siddharth-sing&theme=dark&hide_border=true")](https://git.io/streak-stats)
 <img src="https://user-images.githubusercontent.com/72120258/137962380-980d4e30-0a6c-4e17-b1c4-6fd0f41576c5.gif" width="300" height="250" />
   
-
- 
 ## ⚙️ Tools and Tech I have worked on 
   
 <p align="center">
