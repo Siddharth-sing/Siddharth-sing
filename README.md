@@ -22,14 +22,12 @@
   </a>
   <a href="https://dev.to/siddharthsing">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
-  </a>
-    
-  <br />
-    <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=Siddharth-sing.Siddharth-sing" alt="Vistor Badge"></a>
+  </a>    
 </div>
-<br />
  
-<img src="https://user-images.githubusercontent.com/72120258/138561213-2f4f191a-01fc-4aea-a8d7-5480d6c0c8c7.gif" height="540px" width="830px">
+  <img src="https://user-images.githubusercontent.com/72120258/138561213-2f4f191a-01fc-4aea-a8d7-5480d6c0c8c7.gif" height="540px" width="830px">
+   
+  <a target="_blank"><img align="middle" src="https://visitor-badge.glitch.me/badge?page_id=Siddharth-sing.Siddharth-sing" alt="Vistor Badge"></a>
   
 
 
