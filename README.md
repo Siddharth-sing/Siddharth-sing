@@ -29,13 +29,6 @@
    
   <a target="_blank"><img align="middle" src="https://visitor-badge.glitch.me/badge?page_id=Siddharth-sing.Siddharth-sing" alt="Vistor Badge"></a>
   
-
-
-<!--img src="https://user-images.githubusercontent.com/72120258/136708199-cf033af5-9b89-4285-9b1d-474f98324bd7.gif" height="410px" width="840px"> -->
-
-<br />
-<br />  
-  
 ## &#x1f4c8; Siddharth's GitHub Stats
 <a  href="https://github.com/Siddharth-sing/github-readme-stats">
 <img align="center" src= "https://github-readme-stats.vercel.app/api?username=Siddharth-sing&&show_icons=true&title_color=merko&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
