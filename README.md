@@ -25,7 +25,7 @@
   </a>    
 </div>
 
-  <img src="https://user-images.githubusercontent.com/72120258/138561213-2f4f191a-01fc-4aea-a8d7-5480d6c0c8c7.gif" height="540px" width="830px">
+  <img src="https://user-images.githubusercontent.com/72120258/138561213-2f4f191a-01fc-4aea-a8d7-5480d6c0c8c7.gif" height="530px" width="830px">
    
   <a target="_blank"><img align="middle" src="https://visitor-badge.glitch.me/badge?page_id=Siddharth-sing.Siddharth-sing" alt="Vistor Badge"></a>
   
