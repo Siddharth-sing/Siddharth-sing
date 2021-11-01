@@ -31,7 +31,7 @@
   
 ## &#x1f4c8; Siddharth's GitHub Stats
 <a  href="https://github.com/Siddharth-sing/github-readme-stats">
-<img align="center" src= "https://github-readme-stats.vercel.app/api?username=Siddharth-sing&show_icons=true&theme=dark">
+<img align="center" src= "https://github-readme-stats.vercel.app/api?username=Siddharth-sing&show_icons=true&theme=cobalt">
 </a>
   
 <a href="https://github.com/Siddharth-sing/Siddharth-sing">
