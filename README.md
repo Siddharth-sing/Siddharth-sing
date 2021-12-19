@@ -1,5 +1,3 @@
-![giphy](https://user-images.githubusercontent.com/72120258/146686887-ce27a516-ca89-4608-9e3c-e12fca1e9273.gif)
-
 <img src="https://user-images.githubusercontent.com/72120258/138560654-cc31a210-428e-41c9-ad13-ae1b115b6582.gif" height="250px" width="300px"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/72120258/137971966-9cc26362-c7f2-4086-8a96-47ae8e68ccf0.gif" height="220px" width="300px">
 <h1>Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">, I'm ░▒▓█ 🆂🅸🅳🅳🅷🅰🆁🆃🅷 █▓▒░ 
@@ -26,7 +24,7 @@
   </a>    
 </div>
 
-  <img src="https://user-images.githubusercontent.com/72120258/138561213-2f4f191a-01fc-4aea-a8d7-5480d6c0c8c7.gif" height="540px" width="830px">
+  <img src="https://user-images.githubusercontent.com/72120258/146686887-ce27a516-ca89-4608-9e3c-e12fca1e9273.gif" height="540px" width="830px">
    
   <a target="_blank"><img align="middle" src="https://visitor-badge.glitch.me/badge?page_id=Siddharth-sing.Siddharth-sing" alt="Vistor Badge"></a>
   
