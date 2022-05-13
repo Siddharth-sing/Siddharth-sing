@@ -89,7 +89,6 @@
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
   
-<img src="https://user-images.githubusercontent.com/72120258/137965251-7608e933-2d91-4f4f-8e8b-cebe19aa8d10.gif" height="440px" width="630px">
   
  
 </p> 
