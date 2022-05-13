@@ -22,7 +22,7 @@
   </a>    
 </div>
 
-  <img src="https://c.tenor.com/EpkOFisv5bsAAAAM/work-hard-office.gif" height="540px" width="830px">
+  <img src="https://c.tenor.com/EpkOFisv5bsAAAAM/work-hard-office.gif" height="500px" width="80%">
    
   <a target="_blank"><img align="middle" src="https://visitor-badge.glitch.me/badge?page_id=Siddharth-sing.Siddharth-sing" alt="Vistor Badge"></a>
   
