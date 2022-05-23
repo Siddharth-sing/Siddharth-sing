@@ -21,7 +21,8 @@
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
   </a>    
 </div>
-<img src="https://c.tenor.com/EpkOFisv5bsAAAAM/work-hard-office.gif" height="355px" width="100%">
+<img src="https://c.tenor.com/EpkOFisv5bsAAAAM/work-hard-office.gif" height="355px" width="600px">
+  
 <a target="_blank"><img align="middle" src="https://visitor-badge.glitch.me/badge?page_id=Siddharth-sing.Siddharth-sing" alt="Vistor Badge"></a>
   
 ## &#x1f4c8; Siddharth's GitHub Stats
