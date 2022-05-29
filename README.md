@@ -5,7 +5,7 @@
 <br />
 <div>
   <p align="middle">
-  <a href="https://www.linkedin.com/in/siddharth-singh-baghel-912866190/">
+  <a style={text-decoration="none"} href="https://www.linkedin.com/in/siddharth-singh-baghel-912866190/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:sid.d20082000@gmail.com?subject=Hello%20Sid,%20From%20Github">
